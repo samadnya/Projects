@@ -205,7 +205,7 @@ class DataMem
 
     private:
 		vector<bitset<8> > DMem;
-};
+} ;
 
 void printState(stateStruct state, int cycle)
 {
